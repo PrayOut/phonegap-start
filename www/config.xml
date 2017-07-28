@@ -69,7 +69,6 @@
     <!--
         <plugin name="com.phonegap.plugins.barcodescanner" />
     -->
-    <plugin name="cordova-plugin-spinner-dialog" spec="https://github.com/PrayOut/SpinnerDialog.git" />
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
